@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "employeeID": "1",
+      "firstName": "Sailendra",
+      "middleName": "kumar",
+      "lastName": "goutam",
+      "gender": "male",
+      "dateOfBirth": "15/02/1996",
+      "maritalStatus": "unmarried",
+      "idProof": "sa123er",
+      "phoneNo": 1234567890,
+      "landLineNo": 1234567890,
+      "email": "ram@gmail.com",
+      "permanentAddress": "UttarPradesh goralhpur",
+      "localAddress": "bhopal"
+    }
+  ]
+}
